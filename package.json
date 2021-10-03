@@ -78,7 +78,7 @@
     "react-hot-toast": "^2.1.0",
     "react-intl": "^5.20.7",
     "react-multi-email": "^0.5.3",
-    "react-phone-number-input": "^3.1.25",
+    "react-phone-number-input": "^3.1.31",
     "react-query": "^3.23.1",
     "react-select": "^4.3.1",
     "react-timezone-select": "^1.0.7",
