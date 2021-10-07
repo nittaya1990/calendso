@@ -5253,9 +5253,10 @@ levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-libphonenumber-js@^1.9.26:
-  version "1.9.34"
-  resolved "https://registry.npmjs.org/libphonenumber-js/-/libphonenumber-js-1.9.34.tgz"
+libphonenumber-js@^1.9.37:
+  version "1.9.37"
+  resolved "https://registry.yarnpkg.com/libphonenumber-js/-/libphonenumber-js-1.9.37.tgz#944f59a3618a8f85d9b619767a0b6fb87523f285"
+  integrity sha512-RnUR4XwiVhMLnT7uFSdnmLeprspquuDtaShAgKTA+g/ms9/S4hQU3/QpFdh3iXPHtxD52QscXLm2W2+QBmvYAg==
 
 lilconfig@^2.0.3:
   version "2.0.3"
@@ -6621,14 +6622,15 @@ react-multi-email@^0.5.3:
   version "0.5.3"
   resolved "https://registry.npmjs.org/react-multi-email/-/react-multi-email-0.5.3.tgz"
 
-react-phone-number-input@^3.1.25:
-  version "3.1.27"
-  resolved "https://registry.npmjs.org/react-phone-number-input/-/react-phone-number-input-3.1.27.tgz"
+react-phone-number-input@^3.1.32:
+  version "3.1.32"
+  resolved "https://registry.yarnpkg.com/react-phone-number-input/-/react-phone-number-input-3.1.32.tgz#628579077a19674a5ccfe7a8966ea51ff79890cc"
+  integrity sha512-oqs31vnLG3KIVFSgHNhJfuMIDwKLQmPaYNbZ+Oe2LOPh4q1oB/0dFWWJbDf4ioWTQdesTOwPEQC9Sle8TpxWeQ==
   dependencies:
     classnames "^2.2.5"
     country-flag-icons "^1.0.2"
     input-format "^0.3.6"
-    libphonenumber-js "^1.9.26"
+    libphonenumber-js "^1.9.37"
     prop-types "^15.7.2"
 
 react-query@^3.23.1:
